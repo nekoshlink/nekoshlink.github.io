@@ -3,7 +3,7 @@
 NekoShlink is a URL Shortener - it belongs to the same category as [Bitly](https://bitly.com/)
 and [TinyURL](https://tinyurl.com), but unlike them, it is completely open source and free.
 
-It offers the following features, aside from the obvious ability to make long complex URLs shorter :smirk:
+It offers the following features, aside from the obvious ability to make long complex URLs shorter 😏
 
 - A Core API with CLI and REST front-ends
 - Full access control of who can do what on your instance
